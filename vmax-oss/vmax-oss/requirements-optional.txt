@@ -1,0 +1,25 @@
+# Optional features (install only what you use)
+opencv-python
+mediapipe
+pymunk
+pymysql
+boto3
+c2pa-python
+cairosvg
+pyngrok
+better-profanity
+selenium
+webdriver-manager
+torch
+torchvision
+diffusers
+transformers
+peft
+chromadb
+faiss-cpu
+docling
+keyring
+netifaces
+pyzmq
+etcd3
+sounddevice

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+*.key
+.vmax_c2pa_secret

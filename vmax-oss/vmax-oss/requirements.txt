@@ -1,0 +1,10 @@
+# Core web stack
+flask
+flask-socketio
+werkzeug
+requests
+cryptography
+argon2-cffi
+numpy
+pillow
+pyotp
